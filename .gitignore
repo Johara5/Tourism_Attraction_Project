@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+tourism_app/models/random_forest_classifier.pkl
